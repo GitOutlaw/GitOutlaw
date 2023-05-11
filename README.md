@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GitOutlaw
-- 👀 I’m interested in ...Python and Django Development- 
+- 👀 I’m interested in ...Python and Django Development
 - 📫 How to reach me ...
 jnetinfo@gmail.com
 
