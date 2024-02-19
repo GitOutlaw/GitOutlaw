@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @GitOutlaw
 - 👀 I’m interested in ...Python and Django Development
-- 📫 How to reach me ...
-lrt29net@gmail.com
+
 
 <!---
 GitOutlaw/GitOutlaw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
